@@ -1,6 +1,6 @@
 # ECLIPSE MENU GD BOTS FOR POPULAR LEVELS!
 ## WARNING: ONLY FOR EDUCATIONAL PURPOSES DO NOT TURN OFF AUTO/NORMAL SAFE MODE WHILE USING!
-Very Suprising! I play gd now!!!! Anyways here are some bot configurations i made for **ECLIPSE GD Mod Menu**
+Very Suprising. I play gd now! Anyways here are some macros i made for some popular levels.
 
 ## LEVEL LISTS
 1. `ISWMLE.gdr2` = ISpyWithMyLittleEye By VOXICAT. Bot By @itsame62 | DOWNLOAD: [ISpyWithMyLittleEye](https://github.com/itsame62/eclipsegdmacros/raw/refs/heads/main/ISWMLE.gdr2)
