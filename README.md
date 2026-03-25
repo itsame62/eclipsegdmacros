@@ -9,6 +9,6 @@ Very Suprising! I play gd now!!!! Anyways here are some bot configurations i mad
 4. `The Nightmare.gdr2` = The Nightmare By JAX. Bot By @itsame62 | DOWNLOAD: [The Nightmare](https://github.com/itsame62/eclipsegdpopularbots/raw/refs/heads/main/The%20Nightmare.gdr2)
 5. `Unity.gdr2` = Unity By TRIAXIS And FUNNYGAME. Bot By @itsame62 | DOWNLOAD: [Unity](https://github.com/itsame62/eclipsegdpopularbots/raw/refs/heads/main/Unity.gdr2)
 6. `MIKUMIKUMIKUMIKU.gdr2` = MIKUMIKUMIKUMIKU By OddModd. Bot by @itsame62 | DOWNLOAD: [MIKUMIKUMIKUMIKU](https://github.com/itsame62/eclipsegdpopularbots/raw/refs/heads/main/MIKUMIKUMIKUMIKU.gdr2)
-7. `GD Gangster Rap.gdr2` = GD Gangster Rap By BoomKitty, Arclia, xXLOCOXx, BreadKing, etc. Bot by @itsame62 | DOWNLOAD: [GD Gangster Rap](https://github.com/itsame62/eclipsegdpopularbots/raw/refs/heads/main/GD%20Gangster%20Rap.gdr2)
+7. `GD Gangster Rap.gdr2` = GD Gangster Rap By BoomKitty, Arclia, xXLOCOXx, etc. Bot by @itsame62 | DOWNLOAD: [GD Gangster Rap](https://github.com/itsame62/eclipsegdpopularbots/raw/refs/heads/main/GD%20Gangster%20Rap.gdr2)
 
 ## IF YOU WANT YOUR BOT TO GET PUT IN HERE, SUBMIT A PULL REQUEST
