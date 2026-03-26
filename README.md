@@ -1,4 +1,4 @@
-# ECLIPSE MENU GD BOTS FOR POPULAR LEVELS!
+# ECLIPSE MENU GD MACROS FOR POPULAR LEVELS
 ## WARNING: ONLY FOR EDUCATIONAL PURPOSES DO NOT TURN OFF AUTO/NORMAL SAFE MODE WHILE USING!
 Very Suprising. I play gd now! Anyways here are some macros i made for some popular levels.
 
@@ -11,4 +11,4 @@ Very Suprising. I play gd now! Anyways here are some macros i made for some popu
 6. `MIKUMIKUMIKUMIKU.gdr2` = MIKUMIKUMIKUMIKU By OddModd. Bot by @itsame62 | DOWNLOAD: [MIKUMIKUMIKUMIKU](https://github.com/itsame62/eclipsegdmacros/raw/refs/heads/main/MIKUMIKUMIKUMIKU.gdr2)
 7. `GD Gangster Rap.gdr2` = GD Gangster Rap By BoomKitty, Arclia, xXLOCOXx, etc. Bot by @itsame62 | DOWNLOAD: [GD Gangster Rap](https://github.com/itsame62/eclipsegdmacros/raw/refs/heads/main/GD%20Gangster%20Rap.gdr2)
 
-## IF YOU WANT YOUR BOT TO GET PUT IN HERE, SUBMIT A PULL REQUEST
+## SUBMIT A PULL REQUEST IF YOU HAVE MACROS FOR OTHER LEVELS THAT YOU WANT TO SHARE!
